@@ -6,7 +6,9 @@ public class GroupStudy01 {
         System.out.println("Frank");
         System.out.println("Mary");
         int x=10;
+        System.out.println("Noah");
         int y=20;
+
 
     }
 }
