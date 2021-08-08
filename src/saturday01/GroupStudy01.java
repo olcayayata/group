@@ -5,5 +5,7 @@ public class GroupStudy01 {
         System.out.println("Olcay");
         System.out.println("Frank");
         System.out.println("Mary");
+        int x=10;
+
     }
 }
